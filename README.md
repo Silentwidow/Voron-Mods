@@ -21,6 +21,8 @@ This is extremely sturdy and has zero issues on my 250 running at 300mms with 3k
 
 All of these are printed in Voron standard 40% infill, grid. 0.2mm
 
+These are all done in Tinkercad, so no source files, sorry! 
+
 Thanks! 
 
 
